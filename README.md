@@ -2,6 +2,8 @@
 
 ## Introduction
 This repository contains optimizing cost efficiency in cloud storage systems by applying particle swarm optimization of the Markovian retrial queueing model using MATLAB.
+![image](https://github.com/user-attachments/assets/a1541d7f-782f-4e4b-8ad0-af0865c12e70)
+
 ## Overview
 - **Goal:** Optimize cost values with service rates \mu_{1} & \mu_{2}.
 - **Optimumizw:**
