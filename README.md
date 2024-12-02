@@ -3,48 +3,43 @@
 ## Introduction
 This repository contains optimizing cost efficiency in cloud storage systems by applying particle swarm optimization of the Markovian retrial queueing model using MATLAB.
 ## Overview
-- **Goal:** Improve k-means clustering using AHA for better centroid initialization.
-- **Dataset:** Synthetic dataset (`sample.mat`) with 5 columns.
-- **Key Features:**
-  - Automatic centroid initialization.
+- **Goal:** Optimize cost values with service rates \mu_{1} & \mu_{2}.
+- **Optimumizw:**
+  - Objective function TC.
+  - Service rates
   - Improved convergence speed.
-  - Better clustering performance.
+  
 
 ---
 
 ## Instructions
 
 ### 1. Run the Code:
-1. Load `sample.mat`.
-2. Run `main.m` in MATLAB.
-
-### 2. Dataset:
-- **Input file:** `sample.mat` (a synthetic dataset with 5 columns).
+- Run `Main_file.m` in MATLAB.
 
 ### 3. Parameters:
-- `MaxIt = 200`: Maximum iterations.
-- `nPop = 30`: Population size.
+- `MaxIt = 100`: Maximum iterations.
+- `nPop = 70`: Population size.
 
 ---
 
 ## Results
 
 Results are saved as Excel files:
-- **`AHA_main.xlsx`:** Main results including costs and intra/inter distances.
-- **`AHA_convergence.xlsx`:** Records best fitness over iterations.
-- **`AHA_cluster_CentreX.xlsx`:** Final cluster centers.
+- **`Cost TC`:** 
+- **` Service rate`:**
+- **`Convergence`:** 
 
 ---
 
 ## Requirements
 
 ### MATLAB Version:
-- **MATLAB R2020b** or later is recommended.
+- **MATLAB R2021a** or later is recommended.
 
 ### Toolboxes Required:
-- **Statistics and Machine Learning Toolbox**:
+- **Statistics and Opimization Toolbox**:
   - Functions like `pdist2` and normalization utilities.
-- **Excel file I/O**:
-  - For saving results as `.xlsx` files.
+
 
 ---
