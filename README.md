@@ -36,11 +36,12 @@ Results are saved as Excel files:
 - **`Convergence`**
 ## Plot
 ![image](https://github.com/user-attachments/assets/6256bb72-7c6a-46f5-924e-2e562bccdb18)
-![image](https://github.com/user-attachments/assets/10f590ca-3bdd-4b68-8d89-bb197370f274)
+![image](https://github.com/user-attachments/assets/36034da0-0d03-4a53-8f27-ac07598dfc23)
 ![image](https://github.com/user-attachments/assets/4cd4033a-5754-4086-a098-6f1c11aa78cf)
-![image](https://github.com/user-attachments/assets/6ba4b486-ffd1-49b7-ba98-f0342b59c2c1)
+![image](https://github.com/user-attachments/assets/03c0f5b1-7cc6-42a7-b1a2-5263827a1317)
 ![image](https://github.com/user-attachments/assets/807ffa5f-d94a-47c0-abb6-b0b94b3bd36c)
-![image](https://github.com/user-attachments/assets/75e09a76-4765-47bc-8aea-e79b36024433)
+![image](https://github.com/user-attachments/assets/e1e3a87f-7467-4332-98cc-3f0d59d61453)
+
 
 
 
