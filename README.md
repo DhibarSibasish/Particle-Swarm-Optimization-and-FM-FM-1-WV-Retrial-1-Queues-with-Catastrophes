@@ -37,6 +37,14 @@ Results are saved as Excel files:
 ## Plot
 ![image](https://github.com/user-attachments/assets/6256bb72-7c6a-46f5-924e-2e562bccdb18)
 ![image](https://github.com/user-attachments/assets/10f590ca-3bdd-4b68-8d89-bb197370f274)
+![image](https://github.com/user-attachments/assets/4cd4033a-5754-4086-a098-6f1c11aa78cf)
+![image](https://github.com/user-attachments/assets/6ba4b486-ffd1-49b7-ba98-f0342b59c2c1)
+![image](https://github.com/user-attachments/assets/807ffa5f-d94a-47c0-abb6-b0b94b3bd36c)
+![image](https://github.com/user-attachments/assets/75e09a76-4765-47bc-8aea-e79b36024433)
+
+
+
+
 
 
 
