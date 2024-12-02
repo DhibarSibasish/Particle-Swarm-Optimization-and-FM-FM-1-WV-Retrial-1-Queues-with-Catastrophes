@@ -26,9 +26,9 @@ This repository contains optimizing cost efficiency in cloud storage systems by 
 ## Results
 
 Results are saved as Excel files:
-- **`Cost TC`:** 
-- **` Service rate`:**
-- **`Convergence`:** 
+- **`Cost TC`**
+- **` Service rate`**
+- **`Convergence`** 
 
 ---
 
@@ -38,7 +38,7 @@ Results are saved as Excel files:
 - **MATLAB R2021a** or later is recommended.
 
 ### Toolboxes Required:
-- **Statistics and Opimization Toolbox**:
+- **Statistics and Optimization Toolbox**:
   - Functions like `pdist2` and normalization utilities.
 
 
